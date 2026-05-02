@@ -33,4 +33,4 @@
 (defrule city-car
   (sport no)
   =>
-  (printout t предлагаю: Toyota Camry" crlf))
+  (printout t "предлагаю: Toyota Camry" crlf))
